@@ -1,0 +1,48 @@
+table{
+    border-collapse:collapse;
+}
+td{
+    text-align: center;
+    
+}
+#ani{
+    text-align: left;
+    border-bottom: 2px solid;
+}
+th{
+    border-bottom: 2px solid;
+}
+tr.su td{
+    border-bottom: 2px solid;
+}
+td.k {
+    border-top: hidden;
+    width:25%;
+
+}
+
+#v{
+    text-align: left;
+    border-bottom: 0px;
+}
+#e{
+    text-align: center;
+}
+/* td#b{
+    width: 200px;
+} */
+table{
+    table-layout: fixed;
+} 
+td{
+    width: 25%;
+}
+tr.g td{
+    border-bottom: 2px solid;
+}
+.j{
+    width:20%
+}
+.s{
+    width: 20%;
+}

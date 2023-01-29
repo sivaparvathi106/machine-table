@@ -1,0 +1,15 @@
+
+
+table{
+    border-collapse: collapse;
+    
+}
+.m{
+    background-color: lightgray;
+}
+.f{
+    height: 350;
+    width: 500;
+    overflow: auto;
+}
+ 

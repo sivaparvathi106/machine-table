@@ -1,0 +1,49 @@
+table{
+    border-collapse: collapse;
+    
+}
+td{
+    text-align: center;
+}
+body{
+    box-sizing: border-box;
+    margin-left: 10px;
+    padding: 0%;
+
+}
+.R{
+  margin-left: 2px;
+  border-right: hidden;
+  padding-right: 70px;
+}
+th,td{
+    padding: 10px;
+}
+/* .m{
+    border-right: 0px;
+} */
+.o{
+    border-right: hidden;
+}
+.s{
+    border-right: hidden;
+}
+.N{
+    border-right: hidden;
+}
+#p{
+    margin-left: 50px;
+}
+.sh{
+    border-left-style: dashed;
+    border-bottom-style: dashed;
+    border-top-style: dashed;
+    
+}
+/* .an{ 
+     border: dashed;
+    border-left: none;
+    padding-left: 40px; 
+    
+/* } 
+
